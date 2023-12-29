@@ -15,8 +15,8 @@
 ##### Languages I use
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 
 ##### Some of the technologies I have worked with
 
