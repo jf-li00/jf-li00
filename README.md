@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**jf-li00/jf-li00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm [Jiefeng Li!](https://github.com/jf-li00/jf-li00/)
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a master student at [HUST](https://hust.edu.cn/)
+
+- 👨‍💻 I’m currently working on **Program Analysis** / **Fuzzing**(especially for smart contract). 
+- 📚 Learning **Static Analysis** / **Fuzzing** / **Formal Methods**(just begins) / 
+- 🎇 I'm also much interested in **Compilers** / **Functional Programming**
+- 💪🏼 Future Goals: Learn more interesting technologies and code for fun.
+
+---
+
+##### Languages I use
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
+##### Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+<br/>
+
+---
