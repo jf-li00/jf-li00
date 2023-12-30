@@ -5,8 +5,8 @@
 
 ## I'm a master student at [HUST](https://hust.edu.cn/)
 
-- 👨‍💻 I’m currently working on **Program Analysis** / **Fuzzing**(especially for smart contract). 
-- 📚 Learning **Static Analysis** / **Fuzzing** / **Formal Methods**(just begins) / 
+- 👨‍💻 I’m currently working on **Program Analysis** / **Fuzzing**(especially for smart contract).
+- 📚 Learning **Static Analysis** / **Fuzzing** / **Formal Methods**(just begins) /
 - 🎇 I'm also much interested in **Compilers** / **Functional Programming**
 - 💪🏼 Future Goals: Learn more interesting technologies and code for fun.
 
